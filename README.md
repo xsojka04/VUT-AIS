@@ -1,4 +1,4 @@
-# VUT-AIS
+# VUT FIT AIS
 VUT AIS 2021/2022
 
 Část 1:   
