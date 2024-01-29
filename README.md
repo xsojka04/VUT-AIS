@@ -1,5 +1,5 @@
-# VUT FIT AIS
-VUT AIS 2021/2022
+# Studium na FIT VUT - projekt do předmětu AIS (2021/2022)
+Rozhodli jsme se zveřejnit výsledek našeho školního projektu, protože jeho zadání projektu bylo velmi matoucí a věříme, že náš projekt pomůže budoucím studentům látku lépe pochopit. 
 
 Část 1:   
 &emsp;&emsp; body: 4/5          
